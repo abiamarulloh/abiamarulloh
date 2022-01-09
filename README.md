@@ -27,6 +27,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-[youtube]: https://youtube.com/abiamarulloh
+[youtube]: https://www.youtube.com/channel/UCZH-AxVCtJVavK5DurN0Yjg/featured
 [instagram]: https://instagram.com/abiamarulloh
 [linkedin]: https://linkedin.com/in/abiamarulloh
