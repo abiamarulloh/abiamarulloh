@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer!!
 
-- 🌱 I’m currently learning react native🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning react native�
+- 🥅 2022 Goals: Contribute more to Open Source projects and can growth my startup
 - ⚡ Fun fact: I love to watch a film at netflix 🤣
 
 ### Connect with me:
