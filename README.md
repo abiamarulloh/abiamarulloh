@@ -7,7 +7,6 @@ Frontend Developer
 I've been learning to code for 5+ years. I started with HTML, but have really found a passion for frontend development
 
 * 🌍  I'm based in Tangerang
-* 🖥️  See my portfolio at [abi.dev](http://abi.dev)
 * ✉️  You can contact me at [abiamarulloh06@gmail.com](mailto:abiamarulloh06@gmail.com)
 * 🚀  I'm currently working on [Ideku](http://ideku.id)
 * 🧠  I'm learning advanced Javascript language, especially for Angular 2+ and NextJs framework
