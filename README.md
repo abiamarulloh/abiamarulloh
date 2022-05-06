@@ -4,7 +4,7 @@ Hi 👋 My name is Abi Amarulloh
 Frontend Developer
 ------------------
 
-I've been learning to code for 5+ years. I started with HTML, but have really found a passion for frontend development
+I've been learning to code for 5+ years until currently. I started with HTML, and have really found a passion for frontend development
 
 * 🌍  I'm based in Tangerang
 * ✉️  You can contact me at [abiamarulloh06@gmail.com](mailto:abiamarulloh06@gmail.com)
