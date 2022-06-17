@@ -10,9 +10,6 @@ I've been learning to code for 5+ years until currently. I started with HTML, an
 * ✉️  You can contact me at [abiamarulloh06@gmail.com](mailto:abiamarulloh06@gmail.com)
 * 🧠  I'm learning advanced Javascript language, especially for Angular 2+ and NextJs framework
 
-<a href="https://www.github.com/abiamarulloh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/abiamarulloh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 
 ### Socials
 
