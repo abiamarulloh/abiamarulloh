@@ -1,7 +1,7 @@
 Hi 👋 My name is Abi Amarulloh
 ==============================
 
-Frontend Developer
+Software Developer
 ------------------
 
 I've been learning to code for 5+ years until currently. I started with HTML, and have really found a passion for frontend development
